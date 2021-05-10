@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\PPProject\bin\Debug\net5.0\PPProject.exe
+C:\Users\PC\source\repos\PPProject\bin\Debug\net5.0\PPProject.deps.json
+C:\Users\PC\source\repos\PPProject\bin\Debug\net5.0\PPProject.runtimeconfig.json
+C:\Users\PC\source\repos\PPProject\bin\Debug\net5.0\PPProject.runtimeconfig.dev.json
+C:\Users\PC\source\repos\PPProject\bin\Debug\net5.0\PPProject.dll
+C:\Users\PC\source\repos\PPProject\bin\Debug\net5.0\ref\PPProject.dll
+C:\Users\PC\source\repos\PPProject\bin\Debug\net5.0\PPProject.pdb
+C:\Users\PC\source\repos\PPProject\obj\Debug\net5.0\PPProject.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\PPProject\obj\Debug\net5.0\PPProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\PPProject\obj\Debug\net5.0\PPProject.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PPProject\obj\Debug\net5.0\PPProject.AssemblyInfo.cs
+C:\Users\PC\source\repos\PPProject\obj\Debug\net5.0\PPProject.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PPProject\obj\Debug\net5.0\PPProject.dll
+C:\Users\PC\source\repos\PPProject\obj\Debug\net5.0\ref\PPProject.dll
+C:\Users\PC\source\repos\PPProject\obj\Debug\net5.0\PPProject.pdb
+C:\Users\PC\source\repos\PPProject\obj\Debug\net5.0\PPProject.genruntimeconfig.cache
